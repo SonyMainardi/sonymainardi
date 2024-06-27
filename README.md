@@ -1,4 +1,4 @@
-<p align="center">Passionate about Technology. ❤️ <br><br> Developing small projects using <strong> HTML, CSS, JavaScript and Java</strong> technologies. I have a degree in Information Systems, I have several courses in the area of ​​Technology, such as IT Technician and Computer Assembly and Maintenance. I've been studying programming for about 1 year and working on Freelance projects to improve my knowledge.</p>&nbsp;
+<p align="center">Desenvolvedor Full Stack <br><br> Desenvolvendo pequenos projetos usando principalmente <strong> React, Node.Js, HTML, CSS, JavaScript, Java, Apache e mySql</strong>. Sou formada em Sistemas de Informação, possuo diversos cursos na área de Tecnologia, como Técnico em Informática e Montagem e Manutenção de Computadores. Estudo programação há cerca de 1 ano e meio e atualmente estou trabalhando pela Digisystem no contrato da Câmara dos Deputados como terceirizado onde eu atuo como desenvolvedor Full Stack, desenvolvendo projetos para o meu setor para resolver problemas do dia a dia e para melhorar a qualidade de vida da equipe.</p>&nbsp;
 
  
  &nbsp;
