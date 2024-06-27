@@ -12,6 +12,7 @@
 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![React](https://img.shields.io/badge/React-F7DF1E?style=for-the-badge&logo=react&logoColor=purple)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![Apache](https://img.shields.io/badge/Apache-F7DF1E?style=for-the-badge&logo=apache&logoColor=purple)&nbsp;
@@ -19,21 +20,23 @@
 ![NodeJs](https://img.shields.io/badge/NodeJs-F7DF1E?style=for-the-badge&logo=nodejs&logoColor=black)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/JAVA-E10098?style=for-the-badge&logo=JAVA&logoColor=white)&nbsp;
+![LPI](https://img.shields.io/badge/Linux_Mint-4285F4?style=for-the-badge&logo=Linux-mint&logoColor=white)&nbsp;
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 
 #### Studying in this moment:
 
-![LPI](https://img.shields.io/badge/Linux_Mint-4285F4?style=for-the-badge&logo=Linux-mint&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![React](https://img.shields.io/badge/React-F7DF1E?style=for-the-badge&logo=react&logoColor=purple)&nbsp;
+![Apache](https://img.shields.io/badge/Apache-F7DF1E?style=for-the-badge&logo=apache&logoColor=purple)&nbsp;
+![NodeJs](https://img.shields.io/badge/NodeJs-F7DF1E?style=for-the-badge&logo=nodejs&logoColor=black)&nbsp;
 
 
 #### Workstation Tools:
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
-![Linux Mint](https://img.shields.io/badge/Linux_Mint-4285F4?style=for-the-badge&logo=Linux-mint&logoColor=white)&nbsp;
+![Linux Ubuntu](https://img.shields.io/badge/Linux_Ubuntu-4285F4?style=for-the-badge&logo=Linux-ubuntu&logoColor=white)&nbsp;
 
 &nbsp;
 &nbsp;
