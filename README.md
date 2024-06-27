@@ -20,7 +20,7 @@
 ![NodeJs](https://img.shields.io/badge/NodeJs-F7DF1E?style=for-the-badge&logo=nodejs&logoColor=black)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/JAVA-E10098?style=for-the-badge&logo=JAVA&logoColor=white)&nbsp;
-![LPI](https://img.shields.io/badge/Linux_Mint-4285F4?style=for-the-badge&logo=Linux-mint&logoColor=white)&nbsp;
+![Linux Ubuntu](https://img.shields.io/badge/Linux_Ubuntu-4285F4?style=for-the-badge&logo=Linux-ubuntu&logoColor=white)&nbsp;
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
